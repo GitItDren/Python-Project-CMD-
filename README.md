@@ -4,7 +4,6 @@
 
 #### Team Members:  Ciin Cing, Marvina and Dren LaPhayne
 
-	Team Members:Ciin Cing, Dren LaPhayne, Marvina 
 #### Project Description/Outline:
 	Trend of Housing Prices over Time
 	Explaining why increases happen and reasoning behind why it fluctuates?
