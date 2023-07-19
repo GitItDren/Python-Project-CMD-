@@ -1,11 +1,11 @@
 # Python-Project-CMD-
 
-Project Title:  Housing:  The Lost Dream
+# Project Title:  Housing:  The Lost Dream
 
-Team Members:  Ciin Cing, Marvina and Dren LaPhayne
+# Team Members:  Ciin Cing, Marvina and Dren LaPhayne
 
-Project Title: “Houses: The Lost American Dream”
-Team Members:
+# Project Title: “Houses: The Lost American Dream”
+# Team Members:
 	Ciin Cing
 	Dren LaPhayne
 	Marvina 
