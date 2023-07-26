@@ -15,7 +15,15 @@ To generate the results for our Project on your devices you will need to ensure 
 5. **Analyzing –** Reviewed the graphs and made assumptions about the actual data compared to our initial Hypothesis
 6.	**Presentation –** Created a PowerPoint template to present the components of our project.  We each contributed summary information on the slides we are to present to the class.
 
-## Project Instructions
+## Project Instructions 
+
+Even though our project focuses on the 20 years between 1996 and 2016, the framework for our analysis will work for any period of data when the following instructions are followed:
+
+1.  Download and export in .csv State HPI data, for any State and for any timeperiod, from any source, we used the Federal Reserve Bank of St. Louis' website
+2.  Download and export in .csv Federal interest rates from any source, we used kaggle.com
+3.  Save the .csv files to a Resources folder in any location on your PC/Mac
+4.  Open the Jupyter Notebook
+5.  
 
 ## Links
 [MD HPI](https://fred.stlouisfed.org/series/MDSTHPI) - All-transaction house price index for Maryland, retrieved from FRED, July 18, 2023
@@ -36,12 +44,13 @@ To generate the results for our Project on your devices you will need to ensure 
 
 [FedBkRt](https://www.bankrate.com/banking/federal-reserve/history-of-federal-funds-rate/#2011) - Federal Interest Rate history with commentary back to 1980s, retrieved from BankRate, July 25, 2023
 
-### Interview with Marvina
-1. Mention anything that you think you are proud of building:  I am proud of myself for having come this far in the program.  I am proud of the fact that I was successful at coding my portion of the project which included:  reading in the .csv files, researching how to convert the date from MM/DD/YYYY to YYYY/MM/DD which was used for all HPI and Fed Int Rate files and researching how to merge the six files using a concat(), I created the dataframes and checked the results of each cell of code with info () or head/tail ().  I am also very proud of the fact that I created a ReadMe file for the first time, and it looks pretty good.
-2. Mention some of the challenges you faced:  A major challenge I knew I would face was how to merge HPI files with its quarterly dates with the Federal Interest Rates with its monthly dates.  Thankfully, Dren volunteered to take up the challenge.
-3. What did you learn in the process?  I learned I can be successful in a challenging program even after 20 years have passed since my last formal training.
-
 ### Interview with Dren
 
 
 ### Interview with Ciin
+
+
+### Interview with Marvina
+1. Mention anything that you think you are proud of building:  I am proud of myself for having come this far in the program.  I am proud of the fact that I was successful at coding my portion of the project which included:  reading in the .csv files, researching how to convert the date from MM/DD/YYYY to YYYY/MM/DD which was used for all HPI and Fed Int Rate files and researching how to merge the six files using a concat(), I created the dataframes and checked the results of each cell of code with info () or head/tail ().  I am also very proud of the fact that I created a ReadMe file for the first time, and it looks pretty good.
+2. Mention some of the challenges you faced:  A major challenge I knew I would face was how to merge HPI files with its quarterly dates with the Federal Interest Rates with its monthly dates.  Thankfully, Dren volunteered to take up the challenge.  Another challenge was interpreting the 
+3. What did you learn in the process?  I learned I can be successful in a challenging program even after 20 years have passed since my last formal training.
