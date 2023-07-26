@@ -22,8 +22,9 @@ Even though our project focuses on the 20 years between 1996 and 2016, the frame
 1.  Download and export in .csv State HPI data, for any State and for any timeperiod, from any source, we used the Federal Reserve Bank of St. Louis' website
 2.  Download and export in .csv Federal interest rates from any source, we used kaggle.com
 3.  Save the .csv files to a Resources folder in any location on your PC/Mac
-4.  Open the Jupyter Notebook
-5.  
+4.  It may be necessary to update the file names referenced in dataframes if using data from other states.  If modifications are necessary complete these before attempting to run the code. 
+5.  Open and run the code using Jupyter Notebook
+6.  Review your findings and make adjustments accordingly
 
 ## Links
 [MD HPI](https://fred.stlouisfed.org/series/MDSTHPI) - All-transaction house price index for Maryland, retrieved from FRED, July 18, 2023
@@ -54,5 +55,5 @@ Even though our project focuses on the 20 years between 1996 and 2016, the frame
 
 ### Interview with Marvina
 1. Mention anything that you think you are proud of building:  I am proud of myself for having come this far in the program.  I am proud of the fact that I was successful at coding my portion of the project which included:  reading in the .csv files, researching how to convert the date from MM/DD/YYYY to YYYY/MM/DD which was used for all HPI and Fed Int Rate files and researching how to merge the six files using a concat(), I created the dataframes and checked the results of each cell of code with info () or head/tail ().  I am also very proud of the fact that I created a ReadMe file for the first time, and it looks pretty good.
-2. Mention some of the challenges you faced:  A major challenge I knew I would face was how to merge HPI files with its quarterly dates with the Federal Interest Rates with its monthly dates.  Thankfully, Dren volunteered to take up the challenge.  Another challenge was interpreting the 
-3. What did you learn in the process?  I learned I can be successful in a challenging program even after 20 years have passed since my last formal training.
+2. Mention some of the challenges you faced:  A major challenge I knew I would face was how to merge HPI files with its quarterly dates with the Federal Interest Rates with its monthly dates.  Another challenge was syncronizing everyones contributions to ensure there wasn't file duplication and and code duplication.
+3. What did you learn in the process?  I learned that I am more than capable.  I learned that I've come along way in this program from Day 1.  I learned that working on large projects effectively can lighten the load and provide opportunities for other ways of thinking and doing.
