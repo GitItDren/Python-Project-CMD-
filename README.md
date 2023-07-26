@@ -48,7 +48,9 @@ Even though our project focuses on the 20 years between 1996 and 2016, the frame
 
 
 ### Interview with Ciin
-
+1. CHALLENGES FACED: I had trouble using two different scales of measurement for the y-axis. Because I had to plot both housing price and federal interest rates, I didn't even know having two y-axes was possible. It wasn't until Jason told me that it is and I just need to search up "python 2nd y-axis" that I found the answer. I know now that when I'm in doubt, just search it up. 
+2. One thing that I'm proud of has to do with cutting the datasets so they could align with each other. I found out I couldn't graph two different csvs' because they did not have the same number of rows. The way I did this was by creating a new df but adding ".head(55)". 55 is the number of rows I wanted.
+3. At the end of this project, I learned that a majority of coding is looking things up online. I can't expect myself to remember every line of code and its function, so I had to learn how to accept that without feeling defeated. 
 
 ### Interview with Marvina
 1. Mention anything that you think you are proud of building:  I am proud of myself for having come this far in the program.  I am proud of the fact that I was successful at coding my portion of the project which included:  reading in the .csv files, researching how to convert the date from MM/DD/YYYY to YYYY/MM/DD which was used for all HPI and Fed Int Rate files and researching how to merge the six files using a concat(), I created the dataframes and checked the results of each cell of code with info () or head/tail ().  I am also very proud of the fact that I created a ReadMe file for the first time, and it looks pretty good.
