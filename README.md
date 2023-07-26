@@ -33,3 +33,16 @@ To generate the results for our Project on your devices you will need to ensure 
 [MrkdwnSht](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - Reference and Cheatsheet containing Markdown requirements
 
 [FedBkRt](https://www.bankrate.com/banking/federal-reserve/history-of-federal-funds-rate/#2011) - Federal Interest Rate history with commentary back to 1980s, retrieved from BankRate, July 25, 2023
+
+### Interview with Marvina
+1. Mention anything that you think you are proud of building
+   I am proud of myself for having come this far in the program.  I am proud of the fact that I coded my portion of the project which included:  reading in the .csv files, researching how to convert the date from MM/DD/YYYY to YYYY/MM/DD which was used for all HPI and Fed Int Rate files and researching how to merge the six files using a concat(), I created the dataframes and checked the results of each cell of code with info () or head/tail ().  I am also very proud of the fact that I created a ReadMe file for the first time, and it looks pretty good.
+2. Mention some of the challenges you faced and features you hope to implement in the future
+   A major challenge I knew I would face was how to merge HPI files with its quarterly dates with the Federal Interest Rates with its monthly dates.  Thankfully, Dren volunteered to take up the challenge.
+3. What did you learn in the process?
+   I learned I can be successful in a challenging program even after 20 years have passed since my last formal training.
+
+### Interview with Dren
+
+
+### Interview with Ciin
