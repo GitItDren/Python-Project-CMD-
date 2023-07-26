@@ -15,6 +15,8 @@ To generate the results for our Project on your devices you will need to ensure 
 5. **Analyzing –** Reviewed the graphs and made assumptions about the actual data compared to our initial Hypothesis
 6.	**Presentation –** Created a PowerPoint template to present the components of our project.  We each contributed summary information on the slides we are to present to the class.
 
+## Project Instructions
+
 ## Links
 [MD HPI](https://fred.stlouisfed.org/series/MDSTHPI) - All-transaction house price index for Maryland, retrieved from FRED, July 18, 2023
 
