@@ -27,3 +27,9 @@ To generate the results for our Project on your devices you will need to ensure 
 [US HPI](https://fred.stlouisfed.org/series/USSTHPI) - All-transaction house price index for United States, retrieved from FRED, July 18, 2023
 
 [FED INT RATE](https://www.kaggle.com/datasets/federalreserve/interest-rates) - Monthly Federal Reserve Interest Rate, retrieved from kaggle.com and Federal Reserve Bank of St. Louis
+
+[62-YrFFR](https://www.macrotrends.net/2015/fed-funds-rate-historical-chart) - Federal Funds Rate for past 62 years, retrieved from macrotrends, July 25, 2023
+
+[MrkdwnSht](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - Reference and Cheatsheet containing Markdown requirements
+
+[FedBkRt](https://www.bankrate.com/banking/federal-reserve/history-of-federal-funds-rate/#2011) - Federal Interest Rate history with commentary back to 1980s, retrieved from BankRate, July 25, 2023
